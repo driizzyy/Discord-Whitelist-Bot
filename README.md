@@ -9,4 +9,4 @@ Setup is super easy, just head to the Discord Developer Portal and create a new 
 Then simply add the bot to both servers and add the bot token in the .env file.
 Then run the install.bat file if you haven't already, then run the start.bat file and enjoy!
 
-Support: https://discord.gg/driizzyy-boosts
+Support: https://discord.gg/driizzyyboosts
